@@ -278,6 +278,7 @@ h3 {
         text-align: center;
         padding-bottom: 16px;
     }
+    .button {  -webkit-transition-duration: 0.4s; /* Safari */  transition-duration: 0.4s;}.button:hover {  background-color: crimson;  color: white;}...
     .css-sflwsc {
         width: 100%;
         margin-left: auto;
